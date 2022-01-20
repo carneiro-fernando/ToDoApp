@@ -18,6 +18,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Swift
 - CoreData
+- XCode 11
+- Tables & Networking
 
 ## 💻 Projeto
 
